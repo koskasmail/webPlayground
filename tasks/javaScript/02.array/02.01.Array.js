@@ -6,9 +6,9 @@ var checkGuest;
 // checkGuest = "eli";
 checkGuest = "jaron";
 
-var guestExist =  guestList.includes(checkGuest);
+var guestExist = guestList.includes(checkGuest);
 
-if (guestExist === true ) 
+if (guestExist === true)
   console.log(checkGuest + ", Welcome.");
 else
   console.log(checkGuest + ", go away.");
