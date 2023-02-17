@@ -1,12 +1,32 @@
-# webPlayground
-<i><b>temp web <u>playground</u></b>italic</i> none 
-<h1>H1</h1>
-<h2>H2</h2>
-<h3>H3</h3>
-<h4>H4</h4>
-<h5>H5</h5>
-<hr/>
-<h2>Welcome</h2>
-<h2>to my site</h2>
+<a name="topage"></a>
 
-    
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/koskasmail/webplayground.svg?style=for-the-badge
+[contributors-url]: https://github.com/koskasmail/webplayground/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/koskasmail/webplayground.svg?style=for-the-badge
+[forks-url]: https://github.com/koskasmail/webplayground/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/koskasmail/webplayground.svg?style=for-the-badge
+[stars-url]: https://github.com/koskasmail/webplayground/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/koskasmail/webplayground.svg?style=for-the-badge
+[issues-url]: https://github.com/koskasmail/webplayground/issues
+
+[license-shield]: https://img.shields.io/github/license/koskasmail/webplayground.svg?style=for-the-badge
+[license-url]: https://github.com/koskasmail/webplayground/blob/master/LICENSE.txt
+
