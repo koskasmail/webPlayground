@@ -8,7 +8,7 @@
 
 
 
-# Welcome!
+# web playGround !
 <a name="topage"></a>
 
 
@@ -16,8 +16,8 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/koskasmail/webplayground">
-    <img src="https://github.com/koskasmail/webplayground/github/images/star.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/koskasmail/webPlayground">
+    <img src="https://koskasmail.github.io/webPlayground/images/star.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -25,14 +25,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/koskasmail/webplayground"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/koskasmail/webPlayground"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/koskasmail/webplayground">View Demo</a>
+    <a href="https://github.com/koskasmail/webPlayground">View Demo</a>
     ·
-    <a href="https://github.com/koskasmail/webplayground/issues">Report Bug</a>
+    <a href="https://github.com/koskasmail/webPlayground/issues">Report Bug</a>
     ·
-    <a href="https://github.com/koskasmail/webplayground/issues">Request Feature</a>
+    <a href="https://github.com/koskasmail/webPlayground/issues">Request Feature</a>
   </p>
 </div>
 
@@ -41,20 +41,20 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/koskasmail/webplayground.svg?style=for-the-badge
-[contributors-url]: https://github.com/koskasmail/webplayground/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/koskasmail/webPlayground.svg?style=for-the-badge
+[contributors-url]: https://github.com/koskasmail/webPlayground/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/koskasmail/webplayground.svg?style=for-the-badge
-[forks-url]: https://github.com/koskasmail/webplayground/network/members
+[forks-shield]: https://img.shields.io/github/forks/koskasmail/webPlayground.svg?style=for-the-badge
+[forks-url]: https://github.com/koskasmail/webPlayground/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/koskasmail/webplayground.svg?style=for-the-badge
-[stars-url]: https://github.com/koskasmail/webplayground/stargazers
+[stars-shield]: https://img.shields.io/github/stars/koskasmail/webPlayground.svg?style=for-the-badge
+[stars-url]: https://github.com/koskasmail/webPlayground/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/koskasmail/webplayground.svg?style=for-the-badge
-[issues-url]: https://github.com/koskasmail/webplayground/issues
+[issues-shield]: https://img.shields.io/github/issues/koskasmail/webPlayground.svg?style=for-the-badge
+[issues-url]: https://github.com/koskasmail/webPlayground/issues
 
-[license-shield]: https://img.shields.io/github/license/koskasmail/webplayground.svg?style=for-the-badge
-[license-url]: https://github.com/koskasmail/webplayground/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/koskasmail/webPlayground.svg?style=for-the-badge
+[license-url]: https://github.com/koskasmail/webPlayground/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yaron-kessler-703606163/
