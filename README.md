@@ -11,13 +11,13 @@
 # web playGround !
 <a name="topage"></a>
 
-
+<base href="https://github.com/koskasmail/webPlayground/"></base>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
   <a href="https://github.com/koskasmail/webPlayground">
-    <img src="https://github.com/koskasmail/webPlayground/images/star.jpg" alt="Logo" width="80" height="80">
+    <img src="images/star.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
