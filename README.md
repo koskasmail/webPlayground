@@ -30,3 +30,5 @@
 [license-shield]: https://img.shields.io/github/license/koskasmail/webplayground.svg?style=for-the-badge
 [license-url]: https://github.com/koskasmail/webplayground/blob/master/LICENSE.txt
 
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/yaron-kessler-703606163
