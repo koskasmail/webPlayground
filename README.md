@@ -1,3 +1,5 @@
+
+# Welcome!
 <a name="topage"></a>
 
 
@@ -15,7 +17,7 @@
 <div align="center">
 
   <a href="https://github.com/koskasmail/webplayground">
-    <img src="images/star.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/koskasmail/webplayground/github/images/star.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
