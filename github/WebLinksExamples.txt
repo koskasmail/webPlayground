@@ -1,0 +1,22 @@
+
+//www
+https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/basic-syntax/#formatting-links
+
+
+//git
+https://github.com/alexandresanlim/Badges4-README.md-Profile.git
+https://github.com/alexandresanlim/Badges4-README.md-Profile#welcome-badges-4-readmemd-profile
+
+
+// temp
+https://github.com/nakulbhati/nakulbhati.git
+https://github.com/nakulbhati/creative-profile-readme.git
+https://github.com/nakulbhati/creative-profile-readme
+https://github.com/nakulbhati/creative-profile-readme/blob/master/CONTRIBUTING.md
+
+
+temp link
+https://www.markdownguide.org/basic-syntax/#formatting-links
+https://www.linkedin.com/pulse/how-create-github-profile-readme-kunwar-nakul-singh-bhati/
+
