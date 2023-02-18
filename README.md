@@ -17,7 +17,7 @@
 <div align="center">
 
   <a href="https://github.com/koskasmail/webPlayground">
-    <img src="https://koskasmail.github.io/webPlayground/images/star.jpg" alt="Logo" width="80" height="80">
+    <img src="./images/star.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
