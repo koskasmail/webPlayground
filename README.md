@@ -63,16 +63,15 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* css link
+* *css link*
   ```sh
   <link rel="stylesheet" href="style.css">
   ```
 
-* js link
+* **js link**
   ```sh
   <script src="script.js" defer></script>
   ```
-
 
 * html template
   ```sh
