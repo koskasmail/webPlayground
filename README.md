@@ -2,7 +2,7 @@
 # web playGround !
 <a name="topage"></a>
 
-># rgb(9, 105, 218) <center> Welcome To my site </center>
+># <center> Welcome To my site </center>
 
 
 
