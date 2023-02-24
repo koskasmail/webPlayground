@@ -2,11 +2,9 @@
 # web playGround !
 <a name="topage"></a>
 
-># Welcome To my site
 
 
 
-stop
 
 <!-- banner #1 -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -102,14 +100,18 @@ This is an example of how to list things you need to use the software and how to
 # Big 1
 this is a big text
 
+---
+
 ## Big 2
 this is a big text
 
+---
+
 ### Big 3
 
-  - [x] (#big 3.1)
- - [ ] #3.2
- - [x] #3.3
+ - [x] Html
+ - [x] Css
+ - [x] JavaScript
 
 #### Big 4
 this is a big text
