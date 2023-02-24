@@ -119,7 +119,26 @@ this is a big text
 ##### Big 5
 this is a big text
 
+--- 
 
+- [Abhinav Sharma](https://github.com/ABSphreak)
+  <details>
+  ```
+    Test is nice.
+  ```
+  </details>
+
+- [Adam Alston](https://github.com/adamalston)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/AdamAlston.png">
+  </details>
+
+- [Adrian Sudbury](https://github.com/asudbury)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/asudbury.png">
+  </details>
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
