@@ -2,6 +2,11 @@
 # web playGround !
 <a name="topage"></a>
 
+># rgb(9, 105, 218) <center> Welcome To my site </center>
+
+
+
+stop
 
 <!-- banner #1 -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -11,13 +16,13 @@
 [![MIT License][license-shield]][license-url]
 
 
-<base href="https://github.com/koskasmail/webPlayground/">
+<!-- <base href="https://github.com/koskasmail/webPlayground/"> -->
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br /> -->
 <div align="center">
 
   <a href="https://github.com/koskasmail/webPlayground">
-    <img src="images/star.jpg" alt="Logo" width="80" height="80">
+    <img src="https://koskasmail.github.io/webPlayground/images/star.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -94,22 +99,22 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
 
-# Big
+# Big 1
 this is a big text
 
-## Big
+## Big 2
 this is a big text
 
-### Big
+### Big 3
 
-  - [x] (#big 1)
- - [ ] #2
- - [x] #3
+  - [x] (#big 3.1)
+ - [ ] #3.2
+ - [x] #3.3
 
-#### Big
+#### Big 4
 this is a big text
 
-##### Big
+##### Big 5
 this is a big text
 
 
