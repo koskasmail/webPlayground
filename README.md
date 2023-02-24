@@ -11,7 +11,7 @@
 [![MIT License][license-shield]][license-url]
 
 
-<base href="https://github.com/koskasmail/webPlayground/"></base>
+<base href="https://github.com/koskasmail/webPlayground/">
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -101,7 +101,10 @@ this is a big text
 this is a big text
 
 ### Big
-this is a big text
+
+  - [x] (#big 1)
+ - [ ] #2
+ - [x] #3
 
 #### Big
 this is a big text
