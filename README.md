@@ -123,9 +123,22 @@ this is a big text
 
 - [Abhinav Sharma](https://github.com/ABSphreak)
   <details>
-  ```
-    Test is nice.
-  ```
+ * html template
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>html template</title>
+    </head>
+
+    <body>
+        <h1>html template</h1>
+    </body>
+
+    </html>
   </details>
 
 - [Adam Alston](https://github.com/adamalston)

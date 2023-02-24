@@ -1,0 +1,4 @@
+
+1.  create a new md files.
+2.  and place each on inside a folder.
+3.  like manual.

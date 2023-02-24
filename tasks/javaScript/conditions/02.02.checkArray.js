@@ -16,5 +16,5 @@ var stname = "name.txt";
 // console.log(fileList);
 
 // console.log(fileType);
-console.log(stfilename.endsWith(fileType[1]));
-console.log(`This is not ${fileType[1]}`);
+console.log(stfilename + 'end with ' + fileType[1] + ':::' +  stfilename.endsWith(fileType[1]) );
+// console.log('This is not ' + fileType[1] );
