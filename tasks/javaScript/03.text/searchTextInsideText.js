@@ -1,21 +1,24 @@
+/// Check if "text" variable contain the text from 'searchFor' variable.
+
+var text = 'Hello.pdf';
+var searchFor = '.pdf';
+
+function fnPrintResult(documentName, extension, extensionLength) {
+    console.log('documentName: ' + documentName);
+    console.log('extension: ' + extension);
+    console.log('extensionLength: ' + extensionLength);
+}
 
 function fnCheckString(documentName, extension) {
 
     var extensionLength = extension.length;
 
-    console.log('documentName: ' + documentName);
-    console.log('extension: ' + extension);
-    console.log('extensionLength: ' + extensionLength);
+    fnPrintResult(documentName, extension, extensionLength);
 
     if ( documentName.substr(extensionLength + 1) === extension) 
-    {
-        console.log("The String End with " + searchFor);
         return true;
-    }
+
     return false;
 }
 
-var text = 'Hello.pdf';
-var searchFor = '.pdf';
-
-console.log( fnCheckString(text , searchFor) );
+console.log('Contain value::: ' +  fnCheckString(text , searchFor) );
