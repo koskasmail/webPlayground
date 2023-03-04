@@ -14,13 +14,16 @@
         <h1>Test01</h1>
     </div>
  
-    <label for="lestext">1. Enter some text:</label>
-    <input type="text" id="estext" name="estext"><br><br>
-    <label for="lstext">2. Search som text:</label>
-    <input type="text" id="stext" name="stext"><br><br>
-    <input type="text" id="lresult" name="lresult" disabled>
+    <label for="lestext">1. Enter some text:</label> <br>
+    <input type="text" id="estext" name="estext" maxlength="12" size="60">
+    <br><br>
+    <label for="lstext">2. Search in text:</label> <br>
+    <input type="text" id="stext" name="stext" maxlength="12" size="60">
+    <br><br><br/>
+    <label for="loutput">Output: </label> <br>
+    <input type="text" id="lresult" name="lresult" size="81" disabled>
 
-    <br/>
+    <br/><br/>
     <input type="submit" value="Submit" onclick=fnSubmit()>
     <button type="button" onclick=test()>sub </button>
 
