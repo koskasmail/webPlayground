@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Read Local Text File</title>
+	<script>
+		function readTextFile(file) {
+			var reader = new FileReader();
+
+			reader.onload = function () {
+				var content = reader.result;
+				console.log(content);
+			};
+
+			reader.readAsText(file);
+		}
+
+		function handleFileSelect(evt) {
+			var file = evt.target.files[0];
+
+			readTextFile(file);
+		}
+	</script>
+</head>
+
+<body>
+	<input type="file" id="fileInput" onchange="handleFileSelect(event)">
+</body>
+
+</html>
