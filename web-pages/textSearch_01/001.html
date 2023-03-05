@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Read Text File Example</title>
+</head>
+<body>
+
+  <input type="file" id="file-input">
+  <textarea id="text-output"></textarea>
+
+  <script>
+    var fileInput = document.getElementById('file-input');
+    var textOutput = document.getElementById('text-output');
+
+    fileInput.addEventListener('change', function() {
+      var file = fileInput.files[0];
+      var reader = new FileReader();
+
+      reader.addEventListener('load', function() {
+        textOutput.value = reader.result;
+      });
+
+      reader.readAsText(file);
+    });
+  </script>
+
+</body>
+</html>

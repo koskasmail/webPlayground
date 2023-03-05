@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Read Text File Example</title>
+  <style>
+    textarea {
+      width: 100%;
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+
+  <textarea id="text-output"></textarea>
+
+  <script>
+    var fileName = "example.txt";
+    var textOutput = document.getElementById('text-output');
+    var xhr = new XMLHttpRequest();
+
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === XMLHttpRequest.DONE) {
+        if (xhr.status === 200) {
+          textOutput.value = xhr.responseText;
+        } else {
+          console.error("Failed to load file: " + fileName);
+        }
+      }
+    };
+
+    xhr.open('GET', fileName, true);
+    xhr.send();
+  </script>
+
+</body>
+</html>
+
