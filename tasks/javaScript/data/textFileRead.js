@@ -1,8 +1,8 @@
 // TODO - TO-FIX
 
 // Get the file name from the variable
- var fileName = filename;
-//var fileName = "C:/test/rtfm.txt";
+//  var fileName = filename;
+var fileName = "textFileRead2.js";
 
 // Create a new XMLHttpRequest object
 var xhr = new XMLHttpRequest();
