@@ -1,4 +1,4 @@
-/*----[leap year::::True/False::::]------------
+/* ----[leap year::::True/False::::]------------
 ** (year / 4) = 500 (leap)
 ** (year / 100) = 20 (not leap)
 ** (year / 400) = 5 (leap)

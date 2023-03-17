@@ -1,5 +1,4 @@
-/*
-* ----[fizzBuzz / fizz / buzz]------------*
+/* ----[fizzBuzz / fizz / buzz]------------*
 *  * div 3 and 5 print "fizzBuzz"
 *  * div 3 print "fizz"
 *  * div 5 print "buzz"

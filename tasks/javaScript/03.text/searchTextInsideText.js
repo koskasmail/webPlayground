@@ -1,5 +1,4 @@
-/*
-* ----[search Text Inside Text]------------*
+/* ----[search Text Inside Text]------------*
 *  * Check if "text" variable contain the text from 'searchFor' variable.
 */
  
