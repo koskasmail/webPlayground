@@ -1,4 +1,6 @@
-///
+/*
+* ----[guestList::::check who is truly invited::::]------------*
+*/
 var guestList = ["jaron", "hadar", "rami", "anat"];
 
 //var checkGuest = prompt("enter your name: ");

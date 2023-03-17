@@ -1,12 +1,18 @@
-var output = [];
-var count = 1;
+/*
+* ----[fizzBuzz / fizz / buzz]------------*
+*  * div 3 and 5 print "fizzBuzz"
+*  * div 3 print "fizz"
+*  * div 5 print "buzz"
+*  * otherwise print the number
+*/
 
-function fnFizzBuzz() {
+var output = [];
+
+function fnFizzBuzz(count) {
 
     if (((count % 3) == 0) && ((count % 5) == 0)) {
         output.push("fizzBuzz");
     }
-
     else if (count % 3 == 0) {
         output.push("fizz");
     }
@@ -20,11 +26,11 @@ function fnFizzBuzz() {
 }
 
 function fizzbuzzPrint() {
-    console.log(output);
+    console.table(output);
 }
 
-for (var i = 0; i < 16; i++) {
-    fnFizzBuzz();
+for (var i = 0; i < 17; i++) {
+    fnFizzBuzz(i);
 }
 
 fizzbuzzPrint();
