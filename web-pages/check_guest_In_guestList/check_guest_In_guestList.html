@@ -9,18 +9,26 @@
 </head>
 
 <body>
+
+  <div class="result">let's check the Guest List</div>
+  <div id="output">---</div>
+
   <script>
     var guestList = ["jaron", "hadar", "rami", "anat"];
 
-    var checkGuest = prompt("enter your name: ");
-    var checkGuest;
+    var checkGuest = prompt("let's check the Guest List \n please enter your name: ");
 
     var guestExist = guestList.includes(checkGuest);
 
+    var stOutput = "";
+
     if (guestExist === true)
-      console.log(checkGuest + ", Welcome.");
+      stOutput = checkGuest + ", Welcome.";
     else
-      console.log(checkGuest + ", go away.");
+      stOutput = checkGuest + ", Sorry, you are not in the list.";
+
+      document.getElementById("output").innerHTML = stOutput;
+
   </script>
 </body>
 
