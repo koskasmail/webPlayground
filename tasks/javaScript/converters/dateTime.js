@@ -1,10 +1,9 @@
-var dateTimeBasic = new Date();
-var dateTimeBasic = '2022-12-05T16:43:21.840Z'
 
-var output = [];
+var dateTimeBasic = new Date();
 var dd = dateTimeBasic.getDay();
 var mm = dateTimeBasic.getMonth();
 var yyyy = dateTimeBasic.getFullYear();
+var output = [];
 
    // if hh < 0 add 0 .
    dd = dd < 10 ? "0" + dd : dd;
