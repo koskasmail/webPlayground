@@ -1,0 +1,33 @@
+/* Reset some default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .game-container {
+    width: 400px;
+    height: 400px;
+    background-color: #eee;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .ball {
+    width: 40px;
+    height: 40px;
+    background-color: #f00;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .platform {
+    width: 100%;
+    height: 10px;
+    background-color: #000;
+    position: absolute;
+    bottom: 0;
+  }
+  
