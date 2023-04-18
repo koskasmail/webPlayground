@@ -62,6 +62,45 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yaron-kessler-703606163/
 
+### change links & text
+Visit [atom.io](https://atom.io) to learn more or visit the [Atom forum](https://github.com/atom/atom/discussions).
+
+Follow [@AtomEditor](https://twitter.com/atomeditor) on Twitter for important
+announcements.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* *css link*
+  ```sh
+  <link rel="stylesheet" href="style.css">
+  ```
+
+* **js link**
+  ```sh
+  <script src="script.js" defer></script>
+  ```
+
+* html template
+  ```sh
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>html template</title>
+    </head>
+
+    <body>
+        <h1>html template</h1>
+    </body>
+
+    </html>
+  ```
+
+<p align="right">(<a href="#topage">back to top</a>)</p>
 
 # Big 1
 this is a big text
@@ -121,3 +160,7 @@ this is a big text
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+
+
