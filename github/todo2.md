@@ -7,5 +7,5 @@
 ### Big 3
 
  -  [x] Html
- -  [] Css
+ -  [ ] Css
  -  [x] JavaScript
