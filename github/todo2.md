@@ -10,6 +10,7 @@
  -  [ ] Css
  -  [x] JavaScript
 
-    [x] --Html
-    [ ] Css
-    [x] JavaScript
+
+ -  [x] --Html
+ -  [ ] Css
+ -  [x] JavaScript
