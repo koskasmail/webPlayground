@@ -6,3 +6,4 @@
 4. [X] ~~change color~~.
 5. [X] move to folder
 6. [X] ~~done_job_ or _NOT_~~.
+7. [ ] [JavaScript](https://github.com/koskasmail/JavaScript)
