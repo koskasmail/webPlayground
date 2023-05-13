@@ -77,7 +77,7 @@ this is a big text
 
  - [x] Html 
  - [x] Css
- - [x] [JavaScript](https://github.com/koskasmail/JavaScript).
+ - [x] [JavaScript](https://github.com/koskasmail/JavaScript)
 
 #### Big 4
 this is a big text
