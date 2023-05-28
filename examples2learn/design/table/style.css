@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+}
+table {
+  margin: 10px auto;
+  border: 1px solid #777;
+}
+code {
+  font-family: consolas, monaco, monospace; 
+}
+th {
+  color: #777;
+}
+td, th {
+  padding: 7px 10px;
+  border-left: 1px solid #777;
+  &:first-child {
+    border-left: none;
+  }
+}
+.section td, th {
+  border-bottom: 1px solid #777;
+}
+
+.col3 {
+  color: blue;
+}
+
+.col2 {
+  color: purple; 
+}
+
+.col1 {
+  color: red
+}
+
+.fa:before {
+  padding: 0 4px;
+}
+select {
+  margin: 0 4px;
+}
+.fa-font:before {
+  border-bottom: 4px solid blue;
+  margin-bottom: -4px;
+  display: block;
+}
+.fa+.fa {
+  display: block; 
+  margin: -4px 0 -4px;
+  font-size: 0.7em;
+}
