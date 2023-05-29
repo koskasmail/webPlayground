@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Copy to Clipboard</title>
+  <style>
+    textarea {
+      width: 300px;
+      height: 100px;
+    }
+  </style>
+</head>
+<body>
+  <textarea id="myText">Hello, World!</textarea>
+  <button onclick="copyToClipboard()">Copy to Clipboard</button>
+
+  <script>
+    function copyToClipboard() {
+      /* Get the text field */
+      var copyText = document.getElementById("myText");
+
+      /* Select the text field */
+      copyText.select();
+      copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+      /* Copy the text inside the text field */
+      document.execCommand("copy");
+
+      /* Alert the copied text */
+      alert("Copied to clipboard: " + copyText.value);
+    }
+  </script>
+</body>
+</html>
